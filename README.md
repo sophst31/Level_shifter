@@ -21,7 +21,7 @@ Each of the four channels shares a common input supply, but provides galvanicall
 ## Circuit Description
 
 ### Block Diagram
-![Block Diagram](docs/block_diagram.png)  
+![Block Diagram](documentations/block_diagram.png)  
 *High-level overview of the module’s functional blocks.*
 
 The design is divided into three functional blocks: voltage regulation, level translation, and isolation with output drivers.
